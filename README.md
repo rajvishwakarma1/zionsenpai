@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm Raj Vishwakarma</h1>
-<h3 align="center">A passionate software developer in making</h3>
+<h1 align="left">Hi 👋, I'm Raj Vishwakarma</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zionsenpai" alt="zionsenpai" /></a> </p>
+![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
 
-- 🔭 I’m currently working on **API Modules**
+- 🔭 I’m currently working on my first app AI Based Workout Tracker
 
-- 🌱 I’m currently learning **Flutter**
+- 👉🏻 Check my portfolio! https://rajvishwakarma.me/
 
-- 👨‍💻 All of my projects are available at [https://rajvishwakarma.me/](https://rajvishwakarma.me/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **rajvishwakarma303@gmail.com**
-
-- 📄 Know about my experiences [https://rajvishwakarma.me/](https://rajvishwakarma.me/)
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - ⚡ Fun fact **I think i am serious**
 
